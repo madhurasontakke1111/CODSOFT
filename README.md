@@ -27,13 +27,9 @@ Built a classification model using the Iris dataset to classify flowers into Set
 ### 🔹 Key Features
 
 * Dataset Analysis & Visualization
-  
 * Feature Selection
-  
 * Model Training & Testing
-  
 * Classification using Machine Learning Algorithms
-  
 * Accuracy Evaluation
 
 
@@ -51,6 +47,21 @@ Developed a machine learning model to detect fraudulent credit card transactions
 * Evaluation using Precision, Recall, F1-Score & ROC Curve
 
 
+## 🎬 Task 4: Movie Rating Prediction with Python
+
+Developed a machine learning model to predict movie ratings based on features like genre, director, actors, and other movie attributes using regression techniques.
+
+### 🔹 Key Features
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering & Encoding
+* Data Visualization using Matplotlib & Seaborn
+* Regression Model Building
+* Movie Rating Prediction using Historical Data
+* Model Evaluation using MAE, MSE & R² Score
+
+
 # 📊 Skills Gained
 
 * Data Cleaning & Preprocessing
@@ -64,17 +75,11 @@ Developed a machine learning model to detect fraudulent credit card transactions
 # 🧰 Tools & Libraries
 
 🔹 Jupyter Notebook
-
 🔹Python
-
 🔹Pandas
-
 🔹NumPy
-
 🔹Matplotlib
-
 🔹Seaborn
-
 🔹Scikit-learn
 
 
