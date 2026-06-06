@@ -1,7 +1,7 @@
 # CodSoft-Internship
 # 🚀 CODSOFT Data Science Internship Projects
 
-This repository contains the machine learning and data science projects completed during my internship at CODSOFT. The internship focused on developing practical skills in data analysis, visualization, preprocessing, and predictive modeling using Python and Jupyter Notebook. The internship required successful completion of at least three tasks. 
+This repository contains the machine learning and data science projects completed during my internship at CODSOFT. The internship focused on developing practical skills in data analysis, visualization, preprocessing, and predictive modeling using Python and Jupyter Notebook. The internship required successful completion of at least three tasks.   
 
 
 # 📌 Projects Included
@@ -91,6 +91,7 @@ The purpose of this internship was to gain practical exposure to real-world Data
 # 🎯 What I Learned
 
 This internship gave me practical exposure to machine learning workflows and helped me understand how real-world datasets are analyzed and used for prediction tasks. It also improved my confidence in implementing machine learning models, visualizing data insights, and evaluating model performance effectively.
+
 
 # ⭐ Conclusion
 
